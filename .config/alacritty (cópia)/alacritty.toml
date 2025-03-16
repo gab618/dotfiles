@@ -1,0 +1,8 @@
+import = ["/home/gabriel/.config/alacritty/tokyo-night-storm.toml"]
+
+[window.padding]
+x = 10
+y = 10
+
+[window]
+opacity = 0.9
